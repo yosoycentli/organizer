@@ -5,13 +5,24 @@ en:
       category:
         one: Categoría
         others: Categorías
+      task:
+        one: Tarea
+        others: Tareas
   categories:
+    edit_category: Edit category
     form:
       description: Description
       name: Name
+    index:
+      description: Description
+      name: Name
+    listing_categories: Listing categories
     new_category: Nueva Categoría
   common:
     back: Atras
+    destroy: Destroy
+    edit: Edit
+    show: Show
   hello: Hello world
   tasks:
     form:

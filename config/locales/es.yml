@@ -9,10 +9,21 @@ es:
         one: Tarea
         others: Tareas
   categories:
+    edit_category: Editar Categoría
     form:
       description: Descripción
       name: Nombre
+    index:
+      description: Descripción
+      name: Nombre
+    listing_categories: Lista de Categorías
     new_category: Nueva Categoría
+  common:
+    back: Atrás
+    destroy: Eliminar
+    edit: Editar
+    show: Mostrar
+  hello: Hello world
   tasks:
     form:
       category: Categoría
@@ -20,6 +31,3 @@ es:
       due_date: Fecha de Vencimiento
       name: Nombre
     new_task: Nueva Tarea
-  common:
-    back: Atrás
-  hello: Hello world
