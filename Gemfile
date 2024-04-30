@@ -72,5 +72,6 @@ group :development do
   
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
   gem 'hamlit-rails'
+  gem 'letter_opener'
 end
 
